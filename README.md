@@ -43,7 +43,7 @@ I'm always eager to learn, collaborate, and contribute to impactful tech project
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arpit12890&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arpit12890&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arpit12890&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit12890&layout=compact&theme=github_dark" />
 </p>
