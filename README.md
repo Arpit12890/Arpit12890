@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Arpit12890&label=Profile%20Views&color=0e75b6&style=flat" alt="Arpit12890" />
+</p>
 ## 🦸‍♂️ About Me:
 
 Hi, I'm **Arpit Gupta**, a B.Tech student at Jaypee University of Engineering and Technology with a strong foundation in **MERN Stack Development** and **Data Structures & Algorithms (DSA)**. I’m passionate about building full-stack web applications that are not just functional, but also clean and user-centric.
@@ -41,17 +44,17 @@ I'm always eager to learn, collaborate, and contribute to impactful tech project
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arpit12890&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpit12890&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arpit12890&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit12890&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit12890&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit12890&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Arpit12890&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit12890&theme=github-dark&hide_border=true" />
 </p>
